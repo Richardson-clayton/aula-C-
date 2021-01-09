@@ -1,0 +1,16 @@
+D:\Clayton\github\aula-C#\aulac#\bin\Debug\net5.0\aulac#.exe
+D:\Clayton\github\aula-C#\aulac#\bin\Debug\net5.0\aulac#.deps.json
+D:\Clayton\github\aula-C#\aulac#\bin\Debug\net5.0\aulac#.runtimeconfig.json
+D:\Clayton\github\aula-C#\aulac#\bin\Debug\net5.0\aulac#.runtimeconfig.dev.json
+D:\Clayton\github\aula-C#\aulac#\bin\Debug\net5.0\aulac#.dll
+D:\Clayton\github\aula-C#\aulac#\bin\Debug\net5.0\ref\aulac#.dll
+D:\Clayton\github\aula-C#\aulac#\bin\Debug\net5.0\aulac#.pdb
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\aulac#.csprojAssemblyReference.cache
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\aulac#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\aulac#.AssemblyInfoInputs.cache
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\aulac#.AssemblyInfo.cs
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\aulac#.csproj.CoreCompileInputs.cache
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\aulac#.dll
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\ref\aulac#.dll
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\aulac#.pdb
+D:\Clayton\github\aula-C#\aulac#\obj\Debug\net5.0\aulac#.genruntimeconfig.cache

@@ -6,7 +6,12 @@ namespace aulac_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numeroDeVezes = 3;
+            for (int i = 0; i <= numeroDeVezes; i++)
+            {
+                Console.WriteLine($"Hello World! (i)");
+            }
+            
         }
     }
 }
